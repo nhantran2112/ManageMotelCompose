@@ -13,7 +13,7 @@ class RemoteImpl : Remote {
     override suspend fun getData(): List<Room> {
         database.addValueEventListener(object : ValueEventListener {
             override fun onDataChange(snapshot: DataSnapshot) {
-                val value = snapshot.value
+//                val value = snapshot.value
             }
 
             override fun onCancelled(error: DatabaseError) {
