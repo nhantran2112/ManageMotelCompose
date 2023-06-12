@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "805754503707",
+    "project_id": "managemotel-bddf1",
+    "storage_bucket": "managemotel-bddf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805754503707:android:7ea7637db593670f692ebe",
+        "android_client_info": {
+          "package_name": "com.jetpack.compose.managemotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805754503707-n601tqi850jl00gv43m64t2t3kci0gnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgWyrc856Krj1_tFJTBXNVT1t20AQwJGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805754503707-n601tqi850jl00gv43m64t2t3kci0gnl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
